@@ -10,4 +10,4 @@ https://www.mathworks.com/products/aerospace-toolbox.html
 STL Handling functions - Eric Johnson (2021): https://www.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader   
 
 ## Data:
-Dat can be downloaded from the Figshare data repository: https://doi.org/10.6084/m9.figshare.c.5328773
+The data that is related to this code can be downloaded from the Figshare data repository: https://doi.org/10.6084/m9.figshare.c.5328773
