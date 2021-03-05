@@ -4,7 +4,7 @@ Code for visualization purpose and is Supplementary to the paper:
 "Reference in-vitro dataset for inertial-sensor-to-bone alignment applied to the tibiofemoral joint"
 
 ## Dependencies
-Matlab Aerospace toolbox:
+Matlab Aerospace toolbox:  
 https://www.mathworks.com/products/aerospace-toolbox.html 
 
 STL Handling functions - Eric Johnson (2021):  
