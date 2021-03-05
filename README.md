@@ -1,6 +1,6 @@
 # Reference *in-vitro* dataset for inertial-sensor-to-bone alignemnt (IS2B) applied to the tibiofemoral joint 
 
-Code for visualization purpose and is Supplementary to the paper: 
+Matlab code for visualization purpose and is Supplementary to the paper: 
 "Reference in-vitro dataset for inertial-sensor-to-bone alignment applied to the tibiofemoral joint"
 
 ## Dependencies
