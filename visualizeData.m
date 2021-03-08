@@ -12,7 +12,7 @@
 %   https://www.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader 
 %   Add the following functions to path: stlread (differs from Matlab function), stlbinary
 
-% Data:
+% Data: https://doi.org/10.6084/m9.figshare.c.5328773
 % -----
 
 
