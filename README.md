@@ -1,4 +1,4 @@
-# Reference *in-vitro* dataset for inertial-sensor-to-bone alignemnt (IS2B) applied to the tibiofemoral joint 
+# Reference *in-vitro* dataset for inertial-sensor-to-bone alignment (IS2B) applied to the tibiofemoral joint 
 
 Matlab code for visualization purpose, supplementary to the paper: 
 "Reference in-vitro dataset for inertial-sensor-to-bone alignment applied to the tibiofemoral joint"
